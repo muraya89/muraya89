@@ -34,5 +34,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
 <figure><embed src="https://wakatime.com/share/@03431cd9-d9f3-4614-87c3-23b6587fe74a/0dab5bad-1d90-4fd9-bb0a-aa1b6242ea35.svg"></embed></figure>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraya89)](https://github.com/muraya89/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraya89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
