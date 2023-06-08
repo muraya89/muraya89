@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 ### :hammer_and_wrench: Languages and Tools :
+---
+
+
 <div>
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,11 +37,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
 ---
 
-### :fire: My Stats :
-<figure><embed src="https://wakatime.com/share/@03431cd9-d9f3-4614-87c3-23b6587fe74a/0dab5bad-1d90-4fd9-bb0a-aa1b6242ea35.svg"></embed></figure>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraya89)](https://github.com/muraya89/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraya89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
