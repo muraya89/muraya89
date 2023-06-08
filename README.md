@@ -1,9 +1,10 @@
 ### Hi, I am Susan 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 <!--
 **muraya89/muraya89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+#### Connect with me
+https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg. 
+
 ### :hammer_and_wrench: Languages and Tools :
 ---
 
