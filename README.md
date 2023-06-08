@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraya89)](https://github.com/muraya89/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraya89&show_icons=true&theme=radical)](https://github.com/muraya89/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraya89&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
