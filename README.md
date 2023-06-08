@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-#### Connect with me
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg. 
+
+
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 ---
