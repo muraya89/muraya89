@@ -53,5 +53,6 @@ I'm always open to collaboration and new ideas. If you find any of my projects i
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muraya89&show_icons=true)](https://github.com/muraya89/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraya89&theme=light)](https://git.io/streak-stats) 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muraya89&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
