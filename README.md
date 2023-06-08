@@ -1,4 +1,7 @@
-### Hi, I am Susan 👋
+
+### :Introduction
+---
+### Hello there! I am Muraya Welcome to my GitHub profile. Here you will find an overview of my projects, interests, and contributions. Feel free to explore and collaborate. 👋
 <!--
 **muraya89/muraya89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
