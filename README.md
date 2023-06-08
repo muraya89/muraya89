@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <figure><embed src="https://wakatime.com/share/@03431cd9-d9f3-4614-87c3-23b6587fe74a/0dab5bad-1d90-4fd9-bb0a-aa1b6242ea35.svg"></embed></figure>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=muraya89)](https://github.com/muraya89/github-readme-stats)
