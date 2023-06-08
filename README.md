@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Susan 👋
 
 <!--
 **muraya89/muraya89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <figure><embed src="https://wakatime.com/share/@03431cd9-d9f3-4614-87c3-23b6587fe74a/0dab5bad-1d90-4fd9-bb0a-aa1b6242ea35.svg"></embed></figure>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
