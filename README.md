@@ -43,6 +43,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+## :handshake: Collaboration
+---
+
+I'm always open to collaboration and new ideas. If you find any of my projects interesting or have suggestions for improvement, please feel free to reach out. I would love to discuss and work together.
+
+
 ### :fire: My Stats :
 ---
 
